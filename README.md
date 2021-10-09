@@ -3,10 +3,10 @@ Sorting Visualizer
 This is a web app built using React and is used to visualize classic sorting algorithms such as bubble sort, merge sort, and quick sort. It also takes advantage of [material-ui library](https://material-ui.com/).
 
 
-This app is deployed with GitHub Pages and can be accessed here: [bennettoh.github.io/sorting-visualizer](https://bennettoh.github.io/sorting-visualizer/)
+This app is deployed with GitHub Pages and can be accessed here: [parmaprakash.github.io/sorting-visualizer](https://parmaprakash.github.io/sorting-visualizer/)
 
 
-<img src="./public/screenshot_preview.jpg" />
+<img src="./public/screenshot_preview.png" />
 
 
 To do / Features
@@ -27,7 +27,7 @@ To do / Features
 Live demo
 ---
 
-[bennettoh.github.io/sorting-visualizer](https://bennettoh.github.io/sorting-visualizer/)
+[parmaprakash.github.io/sorting-visualizer](https://parmaprakash.github.io/sorting-visualizer/)
 
 
 Created with *create-react-app*. See the [full create-react-app guide](https://github.com/facebook/create-react-app/blob/master/packages/cra-template/template/README.md).
